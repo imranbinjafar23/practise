@@ -1,0 +1,6 @@
+parent_key:
+  child_key1: value1
+  child_key2: value2
+  child_list:
+    - item1
+    - item2
